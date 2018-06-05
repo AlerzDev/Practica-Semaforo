@@ -15,3 +15,5 @@ en las carreras donde cambia consecutivamente con un potenciomentro.
 <br>Cables
 
 # Imagenes
+![Screenshot](1.jpg)
+![Screenshot](2.jpg)
